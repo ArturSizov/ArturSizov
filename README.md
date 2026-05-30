@@ -10,10 +10,10 @@
 
 | Направление | Стек и инструменты |
 | :--- | :--- |
-| **Языки и платформы** | ![C#](https://shields.io) ![.NET 8/9](https://shields.io) |
-| **Веб-технологии** | ![ASP.NET Core](https://shields.io) ![Blazor](https://shields.io) |
-| **Базы данных & ORM** | ![PostgreSQL](https://shields.io) ![EF Core](https://shields.io) ![SQLite](https://shields.io) |
-| **Инфраструктура** | ![Docker](https://shields.io) ![Git](https://shields.io) |
+| **Языки и платформы** |C#, .NET 8/9|
+| **Веб-технологии** |ASP.NET Core, Blazor|
+| **Базы данных & ORM** |PostgreSQL, EF Core, SQLite|
+| **Инфраструктура** |Docker, Git|
 
 ---
 
