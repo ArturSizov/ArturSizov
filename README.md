@@ -1,16 +1,40 @@
-## Hi there 👋
+# Привет, я Артур! 👋 
+### Backend .NET Developer
 
-<!--
-**ArturSizov/ArturSizov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я специализируюсь на создании отказоустойчивых, масштабируемых и чистых бэкенд-решений на платформе **.NET / C#**. Увлекаюсь проектированием архитектуры веб-приложений (Clean Architecture), оптимизацией баз данных и контейнеризацией.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой технологический стек
+
+
+| Направление | Стек и инструменты |
+| :--- | :--- |
+| **Языки и платформы** | ![C#](https://shields.io) ![.NET 8/9](https://shields.io) |
+| **Веб-технологии** | ![ASP.NET Core](https://shields.io) ![Blazor](https://shields.io) |
+| **Базы данных & ORM** | ![PostgreSQL](https://shields.io) ![EF Core](https://shields.io) ![SQLite](https://shields.io) |
+| **Инфраструктура** | ![Docker](https://shields.io) ![Git](https://shields.io) |
+
+---
+
+### 🚀 Архитектурные подходы и паттерны, которые я применяю:
+* **Separation of Concerns:** Проектирование систем с четким разделением логики (API, Domain, Data Access Layers).
+* **Безопасность:** Реализация систем аутентификации и авторизации на базе JWT-токенов, тонкая настройка ролевых моделей доступа (RBAC).
+* **Чистый код:** Следование принципам SOLID, KISS и DRY для создания легко поддерживаемой кодовой базы.
+* **Инфраструктурное мышление:** Контейнеризация приложений для быстрой развертки дев-окружения в одну команду через `docker-compose`.
+
+---
+
+### 📈 Сейчас я активно развиваюсь в:
+* Углубленном изучении **микросервисной архитектуры** и брокеров сообщений (**RabbitMQ**).
+* Оптимизации сложных SQL-запросов и индексации в PostgreSQL.
+* Интеграции современных AI-ассистентов в пайплайн разработки (LLM для код-ревью и автотестов).
+
+---
+
+### 💬 Контакты для связи
+Если вы ищете перспективного .NET-разработчика в команду, готового быстро учиться и приносить пользу бизнесу — я открыт к предложениям:
+
+* **Telegram:** [@ArturSizov](https://t.me)
+* **Email:** [artur.sizov.sizov@gmail.com](mailto:artur.sizov.sizov@gmail.com)
+
